@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Диплом.AnalysisParametersForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIQEACAAABAAAACEAABCAAgAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>AnalysisParameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.CreateProjectForm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAEACAAAgCAAAIAAAAGEAAAAAAAAA=</HashCode>
+      <FileName>CreateProjectForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.DBClass" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQgAAACAEAAAAQAAAAAAAAACwAGABAABACgAEACRA=</HashCode>
+      <FileName>DBClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.Element" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAAAABAAIAAERAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.ElementDBForm" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAABAQiAAAIQEAACQAAEKAAoABAAAIBAAEAAAAAA=</HashCode>
+      <FileName>ElementDBForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.ElementForm" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgACKAAQiAAAJQCAACQCAACAAoIDAAiMHAAEAAEAhA=</HashCode>
+      <FileName>ElementForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.HelpForm" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACACAASAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>HelpForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.MainMenuForm" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EYDoJICAACRK4J0K/svMIA0jQgihCEggdDQlHDxZTQE=</HashCode>
+      <FileName>MainMenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.OpenProjectForm" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAABAQiAAAoGAEACEAAECQAAABCCQLAAAEAACAAA=</HashCode>
+      <FileName>OpenProjectForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.PCB" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAABAAAAAAAAAAAAURAAAAARBAAAAAAAAAAAAA=</HashCode>
+      <FileName>PCB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.PCBDBForm" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAAABAQiAAAIACAACQAAEDAAYABAAAIAQAEAAAAAA=</HashCode>
+      <FileName>PCBDBForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.PCBForm" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAQAIRAASAAABCAAACAEABSYAAYgAAQEGAIEAAEAgA=</HashCode>
+      <FileName>PCBForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.Program" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.Project" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAQAAAgAAAQABQAAAAABAFAAAAAgAAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.SaveForm" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAEACAABACAAA4AAAAAPAAAAAAAAA=</HashCode>
+      <FileName>SaveForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.ThermalModelling" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAABAAgAAAAAAAACAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>ThermalModelling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Диплом.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
